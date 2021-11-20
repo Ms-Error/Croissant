@@ -4,6 +4,7 @@ body {
 
 h1,
 p {
+  color:white;
   text-align: center;
 }
 
@@ -20,5 +21,5 @@ footer {
 
 footer a {
   margin: 0 10px;
-  color: green;
+  color: yellow;
 }
